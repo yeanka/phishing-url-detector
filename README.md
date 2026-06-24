@@ -1,4 +1,4 @@
-# 🎣 PhishGuard — Phishing URL Detection with NLP & Machine Learning
+# PhishGuard — Phishing URL Detection with NLP & Machine Learning
 
 > A beginner-friendly ML + cybersecurity project that trains a Natural Language Processing model to detect phishing URLs with ~97% accuracy — no prior ML experience required.
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 📖 What This Project Does
+## What This Project Does
 
 Phishing attacks trick users into visiting fake websites that steal credentials or install malware. This project builds a **machine learning classifier** that analyses URL structure and text patterns to predict whether a URL is **legitimate or phishing** — without needing to visit the site.
 
@@ -24,7 +24,7 @@ Phishing attacks trick users into visiting fake websites that steal credentials 
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 phishing-detector/
@@ -59,7 +59,7 @@ phishing-detector/
 
 ---
 
-## 🚀 Quick Start (5 minutes)
+## Quick Start (5 minutes)
 
 ### 1. Clone the repo
 ```bash
@@ -99,7 +99,7 @@ python src/predict.py --url "http://paypal-login-verify.suspicious-site.com/acco
 
 ---
 
-## 🔍 Features Extracted from URLs
+## Features Extracted from URLs
 
 | Feature | Example | Why It Matters |
 |---------|---------|---------------|
@@ -116,7 +116,7 @@ python src/predict.py --url "http://paypal-login-verify.suspicious-site.com/acco
 
 ---
 
-## 🧠 How It Works (Plain English)
+## How It Works (Plain English)
 
 ```
 Raw URL
