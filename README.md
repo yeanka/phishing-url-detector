@@ -165,7 +165,7 @@ This project is for **educational purposes only**. The phishing detection model 
 
 ## 👤 Author
 
-**[Your Name]** | Cybersecurity & ML Researcher  
-📧 your@email.com | 🔗 [LinkedIn](https://linkedin.com) | [GitHub](https://github.com)
+**Olayinka David** | Cybersecurity & ML Researcher  
+📧 urekayinka@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/olayinka-a-6901741b5/) | [GitHub](https://github.com/yeanka)
 
 *Part of my cybersecurity portfolio for graduate school applications.*
